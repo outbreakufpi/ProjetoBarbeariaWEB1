@@ -1,4 +1,4 @@
-# Sistema de Barbearia 🪒
+# Sistema de Barbearia 
 
 Um sistema completo para gerenciamento de barbearia, desenvolvido com Node.js, Express e PostgreSQL.
 
@@ -29,7 +29,7 @@ Um sistema completo para gerenciamento de barbearia, desenvolvido com Node.js, E
 
 1. Clone este repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone https://github.com/outbreakufpi/ProjetoBarbeariaWEB1
 ```
 
 2. Instale as dependências:
@@ -67,7 +67,6 @@ Após a instalação, você pode acessar o sistema com as seguintes credenciais:
 - **Email**: admin@barbearia.com
 - **Senha**: admin123
 
-⚠️ **Importante**: Altere a senha do administrador após o primeiro acesso!
 
 ## 📱 Uso do Sistema
 
@@ -103,18 +102,6 @@ Após a instalação, você pode acessar o sistema com as seguintes credenciais:
 4. Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📞 Suporte
-
-Se precisar de ajuda ou encontrar algum problema:
-- Abra uma issue no GitHub
-- Entre em contato com a equipe de suporte
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🙏 Agradecimentos
-
-- A todos os contribuidores
-- À comunidade open source
-- Aos usuários que testam e reportam problemas 
